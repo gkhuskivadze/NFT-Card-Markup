@@ -31,4 +31,4 @@
 
 ## Author
 
-- LinkedIn - [Giorgi Khuskivadze](www.linkedin.com/in/gkhuskivadze)
+- LinkedIn - [Giorgi Khuskivadze](www.linkedin.com/in/gkhuskivadze) 
